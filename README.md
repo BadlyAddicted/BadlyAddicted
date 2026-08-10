@@ -2,7 +2,12 @@
 </table>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ch3shyre&label=pills&color=D4896D&style=flat-square" alt="Profile views" />
-</p><div align="center"><img width="1280" height="720" alt="devin tmirb" src="https://github.com/user-attachments/assets/c5fec12f-90d9-4a86-97f2-9fe0132ad748" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/65d0a04e-cb1a-41a4-b793-bbc90f43698f" />
+  <source media="(prefers-color-scheme: light)"https://github.com/user-attachments/assets/800fb43b-529b-476f-aa9b-e0ff2e57ba5a" />
+  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/ee5a3b8d-5425-47b6-a9fb-01b35b058602" />
+
+</picture>
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/cc12931e-c91f-4f17-9952-69501ba00419" />
