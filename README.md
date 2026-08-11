@@ -3,10 +3,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ch3shyre&label=pills&color=D4896D&style=flat-square" alt="Profile views" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/65d0a04e-cb1a-41a4-b793-bbc90f43698f" />
-  <source media="(prefers-color-scheme: light)"https://github.com/user-attachments/assets/800fb43b-529b-476f-aa9b-e0ff2e57ba5a" />
-  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/ee5a3b8d-5425-47b6-a9fb-01b35b058602" />
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c27e272d-e405-402d-8f1a-b7b2543cef53" />
+  <source media="(prefers-color-scheme: light)"https://github.com/user-attachments/assets/e6b321a7-3495-4f27-b07e-b15836bd4895" />
+  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/81728537-970b-4d57-ac35-6f2bc8754472" />
 </picture>
 <p align="center">
 <a href="https://llovemailok.carrd.co">
