@@ -9,9 +9,6 @@
 
 </picture>
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/cc12931e-c91f-4f17-9952-69501ba00419" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a356b227-add5-417b-b4b2-e0374aa18c76" />
-  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/b0be367e-de21-4eb7-a218-717b68fe8c37" />
-</picture>
-wip ok imnot done w the lovemail
+<a href="https://llovemailok.carrd.co">
+  <img alt="MAIL" src="https://github.com/user-attachments/assets/47fa69e4-d00e-476d-803f-0484c17e02da" />
+</a>
