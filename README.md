@@ -12,3 +12,4 @@
   <img alt="MAIL" src="https://github.com/user-attachments/assets/5b1ee5e0-bd74-4b94-ab6a-4b17248b1c00" />
 </a>
 click ! ^
+<p align="center"><a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> - thankss!
